@@ -1,2 +1,2 @@
-import 'js-routes'
+import 'routes'
 import './application.scss'
